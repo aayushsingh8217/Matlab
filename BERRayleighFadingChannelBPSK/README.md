@@ -46,4 +46,4 @@ The simulation provides detailed insights into the performance of the communicat
 
 - This project was created for educational and demonstration purposes.
 
-Feel free to modify and extend this project for your own needs. If you find this project helpful, kindly consider acknowledging the original author in your work.
+Feel free to modify and extend this project for your own needs.
