@@ -44,8 +44,6 @@ Contributions and improvements to this project are welcome! If you find a bug, h
 
 ## Contact
 
-- aayushsingh8217@gmail.com
-
-For questions, suggestions, or collaborations, please reach out to [Your Name] at [your.email@example.com].
+For questions, suggestions, or collaborations, please reach out to Aayush Singh at aayushsingh8217@gmail.com.
 
 Happy coding!
